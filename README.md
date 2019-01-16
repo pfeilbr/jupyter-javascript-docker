@@ -1,6 +1,6 @@
 # jupyter-javascript-docker
 
-docker image for running jupyter notebooks with javascript code
+docker image for running [jupyter notebooks](https://jupyter.org/) with javascript code via the [IJavascript](https://github.com/n-riesco/ijavascript)  javascript kernel
 
 **Build and Run**
 
@@ -19,4 +19,4 @@ docker push pfeilbr/jupyter-javascript
 
 **Example Package Usage**
 
-[`example-package/scratch.ipynb`](example-package/scratch.ipynb)
+[`example-package/examples.ipynb`](example-package/scratch.ipynb)
