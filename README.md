@@ -23,4 +23,4 @@ docker push pfeilbr/jupyter-javascript
 
 **Notebook Screenshot(s)**
 
-![](https://www.evernote.com/l/AAF3Q0Z01m9K_oNxazMI-PMIZ5IXInicOHgB/image.png)
+![](https://www.evernote.com/l/AAFEfmgSpR9EoJgKwwGedCsiqu4nCeQBPUoB/image.png)
