@@ -19,7 +19,7 @@ docker push pfeilbr/jupyter-javascript
 
 **Example Package Usage**
 
-[`example-package/examples.ipynb`](example-package/scratch.ipynb)
+[`example-package/examples.ipynb`](example-package/examples.ipynb)
 
 **Notebook Screenshot(s)**
 
